@@ -1,7 +1,0 @@
-# Site settings
-title: Lights, Camera, Action
-description: Photography by Scott Fisk
-keywords: Photos
-author: Scott Fisk
-baseurl: "/photos/" # the subpath of your site, e.g. /blog/
-url: "https://photos.gofisk.com" # the base hostname & protocol for your site
